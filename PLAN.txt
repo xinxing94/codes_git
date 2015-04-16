@@ -1,0 +1,11 @@
+Plan List
+Java
+Python
+Matlab
+R
+-------
+English
+Math/Statistics
+Economics
+Computer Science 
+--------
